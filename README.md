@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Programmer from Pakistan, who is in the midst of his bachelor in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassnain-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hassnain-ahmed" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hassnain-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hassnain-ahmed" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=hassnain-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
