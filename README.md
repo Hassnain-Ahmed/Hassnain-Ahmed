@@ -33,7 +33,7 @@ I am eager to apply my skills to innovative projects. An internship opportunity 
 Let's connect and explore how I can contribute to your team! Feel free to reach out! 😊
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
