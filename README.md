@@ -9,6 +9,30 @@
 
 - 📫 How to reach me **dev.hassnain77@gmail.com**
 
+### More Me 🚀
+
+Hi there! I'm a dedicated and ambitious computer science student at SZABIST Larkana, passionate about conceptualizing and developing digital applications. My journey in computer science is marked by:
+
+- **Independent Projects**: Successfully authored and executed various projects, showcasing strong self-management skills. 🛠️
+- **Team Collaboration**: Effectively collaborated and coordinated within teams, leading to successful group endeavors. 🤝
+
+## Skills 💡
+
+- **Analyzing**: Skilled in breaking down complex problems and designing efficient solutions. 🔍
+- **Coding**: Proficient in multiple programming languages and frameworks. 💻
+- **Troubleshooting**: Strong ability to diagnose and resolve issues effectively. 🛠️
+
+## Objectives 🎯
+
+I am eager to apply my skills to innovative projects. An internship opportunity would allow me to:
+
+- Further refine my technical skills. 📚
+- Contribute creatively to challenging projects. 🌟
+- Gain invaluable hands-on experience. 🏆
+
+Let's connect and explore how I can contribute to your team! Feel free to reach out! 😊
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
