@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassnain Ahmed</h1>
 <h3 align="center">A passionate Programmer from Pakistan, who is in the midst of his bachelor in Computer Science</h3>
 
-[![](https://visitcount.itsvg.in/api?id=hassnain-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 🔭 I’m currently working on [Mental Health Evaluator System](https://github.com/Hassnain-Ahmed/MHES-frontend)
 
@@ -42,6 +42,8 @@ Let's connect and explore how I can contribute to your team! Feel free to reach 
 ![](https://github-readme-stats.vercel.app/api?username=hassnain-ahmed&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hassnain-ahmed&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain-ahmed&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=hassnain-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
