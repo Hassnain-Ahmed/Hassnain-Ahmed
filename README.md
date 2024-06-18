@@ -49,6 +49,8 @@ Let's connect and explore how I can contribute to your team! Feel free to reach 
 ![AJAX](https://img.shields.io/badge/ajax-%230078D4.svg?style=for-the-badge&logo=ajax&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![CanvasJS](https://img.shields.io/badge/CanvasJS-%23FF7700.svg?style=for-the-badge&logo=canvasjs&logoColor=white)
+
 
 ### Backend & Databases
 
