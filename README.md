@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [Mental Health Evaluator System](https://github.com/Hassnain-Ahmed/MHES-frontend)
 
 - 🌱 I’m currently learning **React, Tailwind, Node & Express**
 
