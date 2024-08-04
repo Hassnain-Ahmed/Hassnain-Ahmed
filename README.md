@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassnain Ahmed</h1>
 <h3 align="center">A passionate Programmer from Pakistan, who is in the midst of his bachelor in Computer Science</h3>
 
-
-
-
 - 🌱 I’m currently learning **React, Tailwind, Node & Express**
 
 - 📫 How to reach me **dev.hassnain77@gmail.com**
@@ -49,7 +46,6 @@ Let's connect and explore how I can contribute to your team! Feel free to reach 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![CanvasJS](https://img.shields.io/badge/CanvasJS-%23FF7700.svg?style=for-the-badge&logo=canvasjs&logoColor=white)
-
 
 ### Backend & Databases
 
