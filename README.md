@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dev.hassnain77@gmail.com**
 
-- 🔗 Check out my Fiverr profile [Check out my Fiverr profile](https://www.fiverr.com/s/YRd1g8z)
+- 🔗 Check out my Fiverr [profile](https://www.fiverr.com/s/YRd1g8z)
 
 ### More Me 🚀
 
