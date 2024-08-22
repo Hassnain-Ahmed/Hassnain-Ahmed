@@ -6,8 +6,7 @@
 - 📫 Reach me at **dev.hassnain77@gmail.com**
 
 -  🔭 I’m currently working on [Mental Health Evaluator System](https://github.com/Hassnain-Ahmed/MHES-frontend)
-
-``` - 🔗 Check out my Fiverr [profile](https://www.fiverr.com/s/YRd1g8z) ```
+  
 
 ### About Me 🚀
 
